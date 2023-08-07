@@ -604,7 +604,7 @@ section .title::after {
 
 .right form .button-area button {
   color: #fff;
-  display: block;
+  display: inline-block;
   width: 160px !important;
   height: 45px;
   outline: none;
